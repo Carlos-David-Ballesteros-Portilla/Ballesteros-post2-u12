@@ -24,8 +24,8 @@ docker pull carlosdavidballesterosportilla/mi-spring-app:latest
 
 | Secret | Descripción |
 |---|---|
-| `DOCKERHUB_USERNAME` | Nombre de usuario de Docker Hub |
-| `DOCKERHUB_TOKEN` | Access Token generado en Docker Hub (no la contraseña) |
+| `DOCKERHUB_USERNAME` | carlosdavidballesterosportilla |
+| `DOCKERHUB_TOKEN` | Access Token generado en Docker Hub |
 
 Ruta para configurarlos: `Settings → Secrets and variables → Actions → New repository secret`
 
